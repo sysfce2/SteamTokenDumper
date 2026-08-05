@@ -1,5 +1,12 @@
 
 ---
 
+Source code is available at https://github.com/SteamDatabase/SteamTokenDumper
+
+This program bundles third party components under their own licenses,
+see the accompanying THIRD-PARTY-NOTICES.txt file.
+
+---
+
 Steam and the Steam logo are trademarks and/or registered trademarks of
 Valve Corporation in the U.S. and/or other countries.
