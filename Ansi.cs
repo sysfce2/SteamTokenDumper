@@ -33,7 +33,7 @@ static class Ansi
 
         var caps = AnsiConsole.Profile.Capabilities;
 
-        if (!caps.Interactive || !caps.Ansi || caps.Legacy)
+        if (!caps.Interactive || !caps.Ansi)
         {
             return;
         }
